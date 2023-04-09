@@ -7,6 +7,29 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.resume-button {
+	padding: 10px;
+	font-size: 20px;
+	text-decoration: none;
+	font-weight: bold;
+	background-color: rgb(247, 155, 155);
+	color: white;
+}
+
+.skills {
+	font-size: 50px;
+	padding: 30px;
+}
+
+.skillst {
+	font-size: 75px;
+	padding: 30px;
+}
+
+.resume-button:hover {
+	cursor: pointer;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
