@@ -8,12 +8,16 @@
 */
 
 .resume-button {
-	padding: 10px;
+	padding: 10px 30px;
 	font-size: 20px;
 	text-decoration: none;
 	font-weight: bold;
-	background-color: rgb(247, 155, 155);
-	color: white;
+	background-color: #303030;
+
+	color: #fafafa;
+	border: solid black 1px;
+	border-radius: 5px;
+	margin: 20px;
 }
 
 .skills {
@@ -28,6 +32,8 @@
 
 .resume-button:hover {
 	cursor: pointer;
+	color: #fafafa;
+	background-color: #3e3e3e;
 }
 
 html, body, div, span, applet, object,
@@ -138,7 +144,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #43bff0 !important;
+			color: #43bff0 ;
 		}
 
 		a img {
@@ -1870,7 +1876,7 @@ input, select, textarea {
 					background-color: #FAFAFA;
 				}
 
-				ul.social li a.fa-rss {
+				ul.social li a.fa-angellist {
 					background-color: #F2600B;
 				}
 
